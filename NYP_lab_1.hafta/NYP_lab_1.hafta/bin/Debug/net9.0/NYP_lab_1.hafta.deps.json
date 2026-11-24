@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "NYP_lab_1.hafta/1.0.0": {
+        "runtime": {
+          "NYP_lab_1.hafta.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NYP_lab_1.hafta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
